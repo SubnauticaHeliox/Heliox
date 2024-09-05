@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>E:\Epic Games\Subnautica\Subnautica_Data\Managed\UnityEngine.dll;E:\Epic Games\Subnautica\Subnautica_Data\Managed\UnityEngine.CoreModule.dll;E:\Epic Games\Subnautica\Subnautica_Data\Managed\UnityEngine.UI.dll;E:\Epic Games\Subnautica\BepInEx\plugins\Nautilus\Nautilus.dll;E:\Epic Games\Subnautica\BepInEx\core\BepInEx.dll;E:\Epic Games\Subnautica\BepInEx\core\0Harmony.dll;E:\Epic Games\Subnautica\Subnautica_Data\Managed\publicized_assemblies\Assembly-CSharp_publicized.dll;E:\Epic Games\Subnautica\Subnautica_Data\Managed\publicized_assemblies\Assembly-CSharp-firstpass_publicized.dll</ReferencePath>
+  </PropertyGroup>
+</Project>
