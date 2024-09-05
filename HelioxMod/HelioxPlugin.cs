@@ -10,7 +10,7 @@ namespace Heliox.HelioxMod
     {
         private const string PluginGuid = "heliox.helioxmod";
         private const string PluginName = "Heliox";
-        private const string PluginVersion = "0.0.0.1";
+        public const string PluginVersion = "0.0.0.1";
 
         private static readonly Harmony Harmony = new Harmony(PluginGuid);
 
